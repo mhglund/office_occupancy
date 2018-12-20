@@ -3,6 +3,7 @@ import pandas as pd
 
 # Läs in filen
 df = pd.read_csv('yanzi_250l.csv', sep=';', encoding = "utf-8")
+sensorlist = pd.read_csv('sensor_list.csv', sep=';', encoding = "utf-8")
 
 # Plocka ut 10 första raderna för att inte skriva ut så mkt
 df_top = df.head(10)
@@ -20,6 +21,7 @@ print('--------------------------')
 
 # Ta bort alla whitespaces
 df_trimmed = df.apply(lambda x: x.str.strip() if x.dtype == "object" else x)
+sensorlist_trimmed = sensorlist.apply(lambda x: x.str.strip() if x.dtype == "object" else x)
 
 # Konvertera datumformatet
 df_trimmed['time'] = pd.to_datetime(df_trimmed['time'], unit='ms')
@@ -39,4 +41,21 @@ tomma = df_trimmed.isnull().values.any()
 
 print('SAKNAR EJ VÄRDE:')
 print(tomma)
+print('--------------------------')
+
+# Skapar en ny DF(kopia) för att kunna lägga till rum
+newDF = pd.DataFrame(df_trimmed)
+
+def addRooms():
+    roomsArray = []
+    for indexYanzi, rowYanzi in df_trimmed.iterrows():
+        for index, row in sensorlist.iterrows():
+            if rowYanzi[4] == row[0]:
+                roomsArray.append(row[1])
+
+    newDF['Room'] = pd.Series(roomsArray, index=newDF.index)
+
+addRooms()
+print('VÄRDEN MED RUMINFORMATION:')
+print(newDF)
 print('--------------------------')
