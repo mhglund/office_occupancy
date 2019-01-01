@@ -1,0 +1,1000 @@
+﻿ID;time;location;sensorType;sensorId;value
+14;1527747989844                           ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;887.0
+15;1527747991490                           ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;147.0
+16;1527748013216                           ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;155.0
+17;1527748031861                           ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;55.0
+18;1527748039955                           ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+19;1527748044387                           ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;658.0
+20;1527748053437                           ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;887.0
+21;1527748056968                           ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;147.0
+22;1527748077256                           ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;155.0
+23;1527748095232                           ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;55.0
+24;1527748095700                           ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;658.0
+25;1527748104766                           ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+26;1527748118670                           ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;887.0
+27;1527748122234                           ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;147.0
+28;1527748140881                           ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;155.0
+29;1527748157814                           ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;55.0
+30;1527748158126                           ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;658.0
+31;1527748168056                           ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+32;1527748140442                           ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;887.0
+33;1527748143486                           ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;147.0
+34;1527748158750                           ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;155.0
+35;1527748173944                           ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;55.0
+36;1527748173963                           ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;658.0
+37;1527748183429                           ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+38;1527755101190                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;32.0
+39;1527755112813                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;33.0
+40;1527755145525                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;34.0
+41;1527755160866                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;34.0
+42;1527755178223                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;35.0
+43;1527755265691                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;35.0
+44;1527755310521                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;36.0
+45;1527755328999                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;36.0
+46;1527755343839                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;37.0
+47;1527755382650                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;38.0
+48;1527755383741                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;38.0
+49;1527755393659                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;38.0
+50;1527755419543                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;39.0
+51;1527755452848                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;40.0
+52;1527755453944                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;40.0
+53;1527755486222                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;41.0
+54;1527755517082                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;41.0
+55;1527755520129                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;42.0
+56;1527755553832                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;43.0
+57;1527755582126                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;43.0
+58;1527755587549                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;44.0
+59;1527755621568                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;45.0
+60;1527755647508                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;45.0
+61;1527755664807                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;46.0
+62;1527755699329                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;47.0
+63;1527755711336                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;47.0
+64;1527755737200                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;48.0
+65;1527755771002                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;49.0
+66;1527755772095                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;49.0
+67;1527755808031                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;50.0
+68;1527755835965                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;50.0
+69;1527755841344                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;51.0
+70;1527755832766                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;52.0
+71;1527755853852                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;52.0
+72;1527755860973                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;53.0
+73;1527755907501                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;53.0
+74;1527755908434                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;53.0
+75;1527755959268                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;54.0
+76;1527755987580                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;55.0
+77;1527755988517                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;55.0
+78;1527756013610                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;55.0
+79;1527756016442                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;56.0
+80;1527756048168                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;57.0
+81;1527756049096                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;57.0
+82;1527756066996                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;57.0
+83;1527756076400                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;58.0
+84;1527756105583                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;59.0
+85;1527756106509                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;59.0
+86;1527756121350                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;59.0
+87;1527756134540                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;60.0
+88;1527756164077                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;61.0
+89;1527756165087                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;61.0
+90;1527756177671                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;61.0
+91;1527756194916                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;62.0
+92;1527756225643                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;63.0
+93;1527756226652                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;63.0
+94;1527756236976                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;63.0
+95;1527756256568                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;64.0
+96;1527756289023                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;65.0
+97;1527756290024                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;65.0
+98;1527756320210                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;66.0
+99;1527756349330                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;66.0
+100;1527756351512                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;67.0
+101;1527756383323                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;68.0
+102;1527756407852                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;68.0
+103;1527756438240                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;69.0
+104;1527756467853                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;69.0
+105;1527756478928                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;70.0
+106;1527756547166                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;71.0
+107;1527756548256                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;71.0
+108;1527756565494                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;71.0
+109;1527756580588                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;72.0
+110;1527756613932                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;73.0
+111;1527756615017                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;73.0
+112;1527756630047                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;73.0
+113;1527756648515                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;74.0
+114;1527756681966                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;75.0
+115;1527756683062                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;75.0
+116;1527756694283                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;75.0
+117;1527756725693                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;76.0
+118;1527756757525                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;76.0
+119;1527756759859                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;77.0
+120;1527756793335                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;78.0
+121;1527756822254                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;78.0
+122;1527756827354                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;79.0
+123;1527756868666                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;80.0
+124;1527756885654                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;80.0
+125;1527756918132                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;81.0
+126;1527756949900                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;81.0
+127;1527756956006                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;82.0
+128;1527757001750                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;83.0
+129;1527757014142                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;83.0
+130;1527757035095                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;84.0
+131;1527757078383                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;84.0
+132;1527757119926                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;85.0
+133;1527757139824                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;85.0
+134;1527757140835                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;85.0
+135;1527757150704                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;86.0
+136;1527757140145                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;87.0
+137;1527757155404                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;87.0
+138;1527757169980                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;88.0
+139;1527757198839                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;89.0
+140;1527757199768                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;89.0
+141;1527757209565                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;89.0
+142;1527757227204                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;90.0
+143;1527757255767                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;91.0
+144;1527757256686                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;91.0
+145;1527757263214                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;91.0
+146;1527757284466                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;92.0
+147;1527757316114                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;93.0
+148;1527757317057                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;93.0
+149;1527757353214                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;94.0
+150;1527757370456                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;94.0
+151;1527757382054                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;95.0
+152;1527757410275                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;96.0
+153;1527757424808                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;96.0
+154;1527757441265                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;97.0
+155;1527757471457                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;98.0
+156;1527757480809                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;98.0
+157;1527757507581                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;99.0
+158;1527757538468                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;100.0
+159;1527757539467                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;100.0
+160;1527757569871                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;101.0
+161;1527757596810                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;101.0
+162;1527757604810                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;102.0
+163;1527757641518                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;103.0
+164;1527757655326                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;103.0
+165;1527757672379                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;104.0
+166;1527757704427                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;105.0
+167;1527757713974                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;105.0
+168;1527757735286                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;106.0
+169;1527757808321                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;107.0
+170;1527757809415                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;107.0
+171;1527757842901                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;108.0
+172;1527757872534                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;108.0
+173;1527757877798                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;109.0
+174;1527757911386                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;110.0
+175;1527757936780                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;110.0
+176;1527757944832                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;111.0
+177;1527757978490                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;112.0
+178;1527758001019                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;112.0
+179;1527758015447                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;113.0
+180;1527758051488                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;114.0
+181;1527758064214                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;114.0
+182;1527758086125                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;115.0
+183;1527758119642                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;116.0
+184;1527758120734                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;116.0
+185;1527758129662                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;116.0
+186;1527758152965                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;117.0
+187;1527758186574                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;118.0
+188;1527758187659                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;118.0
+189;1527758224288                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;119.0
+190;1527758250790                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;119.0
+191;1527758258048                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;120.0
+192;1527758305789                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;121.0
+193;1527758306873                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;121.0
+194;1527758315057                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;121.0
+195;1527758340335                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;122.0
+196;1527758373927                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;123.0
+197;1527758375023                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;123.0
+198;1527758419798                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;124.0
+199;1527758397119                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;124.0
+200;1527758410482                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;125.0
+201;1527758439002                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;126.0
+202;1527758439932                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;126.0
+203;1527758450771                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;126.0
+204;1527758467339                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;127.0
+205;1527758495551                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;128.0
+206;1527758496491                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;128.0
+207;1527758504530                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;128.0
+208;1527758525319                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;129.0
+209;1527758559661                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;129.0
+210;1527758571299                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;130.0
+211;1527758600293                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;131.0
+212;1527758614378                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;131.0
+213;1527758628621                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;132.0
+214;1527758656963                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;133.0
+215;1527758668540                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;133.0
+216;1527758685590                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;134.0
+217;1527758717989                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;135.0
+218;1527758748410                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;136.0
+219;1527758749410                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;136.0
+220;1527758777238                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;136.0
+221;1527758780592                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;137.0
+222;1527758811956                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;138.0
+223;1527758812965                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;138.0
+224;1527758835692                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;138.0
+225;1527758843374                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;139.0
+226;1527758876786                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;140.0
+227;1527758877786                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;140.0
+228;1527758896097                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;140.0
+229;1527758907501                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;141.0
+230;1527758938541                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;142.0
+231;1527758939555                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;142.0
+232;1527758954682                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;142.0
+233;1527758969723                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;143.0
+234;1527759000420                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;144.0
+235;1527759001430                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;144.0
+236;1527759014077                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;144.0
+237;1527759031663                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;145.0
+238;1527759062663                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;146.0
+239;1527759063673                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;146.0
+240;1527759073409                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;146.0
+241;1527759136846                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;147.0
+242;1527759137932                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;147.0
+243;1527759170427                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;148.0
+244;1527759179529                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;148.0
+245;1527759204476                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;149.0
+246;1527759205562                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;149.0
+247;1527759239114                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;150.0
+248;1527759273574                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;151.0
+249;1527759274676                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;151.0
+250;1527759303755                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;151.0
+251;1527759308535                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;152.0
+252;1527759342939                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;153.0
+253;1527759344028                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;153.0
+254;1527759368030                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;153.0
+255;1527759376565                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;154.0
+256;1527759410198                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;155.0
+257;1527759411294                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;155.0
+258;1527759433392                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;155.0
+259;1527759450799                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;156.0
+260;1527759484634                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;157.0
+261;1527759485720                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;157.0
+262;1527759498743                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;157.0
+263;1527759519785                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;158.0
+264;1527759553155                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;159.0
+265;1527759554238                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;159.0
+266;1527759564115                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;159.0
+267;1527759587892                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;160.0
+268;1527759622051                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;161.0
+269;1527759623144                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;161.0
+270;1527759656233                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;162.0
+271;1527759647930                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;162.0
+272;1527759650830                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;163.0
+273;1527759679323                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;164.0
+274;1527759680253                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;164.0
+275;1527759702081                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;164.0
+276;1527759708689                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;165.0
+277;1527759737750                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;166.0
+278;1527759738689                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;166.0
+279;1527759757578                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;166.0
+280;1527759765922                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;167.0
+281;1527759796094                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;168.0
+282;1527759797023                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;168.0
+283;1527759812830                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;168.0
+284;1527759824851                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;169.0
+285;1527759854458                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;170.0
+286;1527759855387                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;170.0
+287;1527759868081                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;170.0
+288;1527759883103                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;171.0
+289;1527759911770                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;172.0
+290;1527759912699                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;172.0
+291;1527759921830                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;172.0
+292;1527759947085                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;173.0
+293;1527759975668                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;173.0
+294;1527759980254                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;174.0
+295;1527760019244                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;175.0
+296;1527760033062                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;175.0
+297;1527760050113                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;176.0
+298;1527760080922                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;177.0
+299;1527760092568                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;177.0
+300;1527760132766                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;178.0
+301;1527760152526                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;178.0
+302;1527760164171                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;179.0
+303;1527760195547                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;180.0
+304;1527760211161                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;180.0
+305;1527760226277                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;181.0
+306;1527760257791                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;182.0
+307;1527760271496                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;182.0
+308;1527760289113                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;183.0
+309;1527760321113                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;184.0
+310;1527760331193                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;184.0
+311;1527760394590                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;185.0
+312;1527760395682                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;185.0
+313;1527760428072                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;186.0
+314;1527760461389                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;187.0
+315;1527760462478                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;187.0
+316;1527760493458                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;187.0
+317;1527760494646                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;188.0
+318;1527760528097                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;189.0
+319;1527760529170                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;189.0
+320;1527760558685                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;189.0
+321;1527760561432                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;190.0
+322;1527760595242                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;191.0
+323;1527760596382                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;191.0
+324;1527760624072                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;191.0
+325;1527760628792                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;192.0
+326;1527760662557                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;193.0
+327;1527760663641                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;193.0
+328;1527760687484                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;193.0
+329;1527760696174                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;194.0
+330;1527760729890                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;195.0
+331;1527760730980                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;195.0
+332;1527760752541                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;195.0
+333;1527760763155                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;196.0
+334;1527760798090                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;197.0
+335;1527760799179                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;197.0
+336;1527760817471                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;197.0
+337;1527760832556                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;198.0
+338;1527760870934                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;199.0
+339;1527760872011                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;199.0
+340;1527760880715                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;199.0
+341;1527760904653                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;200.0
+342;1527760940195                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;201.0
+343;1527760939123                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;201.0
+344;1527760972057                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;202.0
+345;1527760960659                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;202.0
+346;1527760964289                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;203.0
+347;1527760992446                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;204.0
+348;1527760993385                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;204.0
+349;1527761015169                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;204.0
+350;1527761020659                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;205.0
+351;1527761048831                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;206.0
+352;1527761049760                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;206.0
+353;1527761069320                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;206.0
+354;1527761077069                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;207.0
+355;1527761108024                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;208.0
+356;1527761108962                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;208.0
+357;1527761124264                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;208.0
+358;1527761136892                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;209.0
+359;1527761165235                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;210.0
+360;1527761166163                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;210.0
+361;1527761177770                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;210.0
+362;1527761195972                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;211.0
+363;1527761225074                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;212.0
+364;1527761226012                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;212.0
+365;1527761232492                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;212.0
+366;1527761254387                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;213.0
+367;1527761283447                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;214.0
+368;1527761284386                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;214.0
+369;1527761311689                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;215.0
+370;1527761340495                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;215.0
+371;1527761342287                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;216.0
+372;1527761373169                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;217.0
+373;1527761400823                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;217.0
+374;1527761404327                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;218.0
+375;1527761435753                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;219.0
+376;1527761467086                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;220.0
+377;1527761520065                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;221.0
+378;1527761529220                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;222.0
+379;1527761559995                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;223.0
+380;1527761580347                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;223.0
+381;1527761639621                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;223.0
+382;1527761745828                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;223.0
+383;1527761764752                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+384;1527761810261                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+385;1527761875188                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+386;1527761938701                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+387;1527761939788                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+388;1527762002691                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+389;1527762067336                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+390;1527762131985                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+391;1527762195513                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+392;1527762258737                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+393;1527762278932                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+394;1527762332675                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+395;1527762387217                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+396;1527762440727                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+397;1527762495077                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+398;1527762549434                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+399;1527762603789                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+400;1527762659538                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+401;1527762718183                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+402;1527762776698                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+403;1527762837041                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+404;1527762896333                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+405;1527763000645                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+406;1527763064881                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+407;1527763129114                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+408;1527763130205                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+409;1527763193345                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+410;1527763257080                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+411;1527763321084                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+412;1527763386009                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+413;1527763451378                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+414;1527763515617                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+415;1527763537837                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+416;1527763591184                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+417;1527763645879                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+418;1527763700817                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+419;1527763755523                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+420;1527763809666                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+421;1527763865159                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+422;1527763921573                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+423;1527763980699                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+424;1527764040647                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+425;1527764100332                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+426;1527764160011                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+427;1527764255490                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+428;1527764319490                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+429;1527764320580                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+430;1527764384543                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+431;1527764449896                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+432;1527764514121                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+433;1527764577510                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+434;1527764641750                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+435;1527764705141                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+436;1527764767974                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+437;1527764789991                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+438;1527764844349                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+439;1527764898700                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+440;1527764952205                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+441;1527765006559                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+442;1527765065823                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+443;1527765124904                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+444;1527765183268                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+445;1527765242564                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+446;1527765302900                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+447;1527765362190                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+448;1527765421492                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+449;1527765520317                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+450;1527765521415                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+451;1527765584561                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+452;1527765648787                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+453;1527765713030                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+454;1527765776256                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+455;1527765840892                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+456;1527765904115                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+457;1527765967262                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+458;1527766027471                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+459;1527766044148                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+460;1527766097643                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+461;1527766151996                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+462;1527766205490                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+463;1527766259845                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+464;1527766315144                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+465;1527766374949                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+466;1527766433474                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+467;1527766493406                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+468;1527766552023                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+469;123456                                  ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+470;1527766772385                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+471;1527767223531                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+472;1527767287039                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+473;1527767305579                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+474;1527767359766                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+475;1527767414483                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+476;1527767811139                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+477;1527767870253                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+478;1527767970039                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+479;1527768034968                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+480;1527768098556                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+481;1527768162117                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+482;1527768227520                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+483;1527768292960                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+484;1527768356343                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+485;1527768421040                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+486;1527768486175                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+487;1527768545464                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+488;1527768554901                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+489;1527768608820                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+490;1527768663162                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+491;1527768716946                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+492;1527768771299                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+493;1527768826673                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+494;1527768943721                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+495;1527769002266                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+496;1527769061376                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+497;1527769122377                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+498;1527769121366                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+499;1527769179883                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+500;1527769293006                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+501;1527769358446                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+502;1527769421672                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;224.0
+503;1527769485546                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;225.0
+504;1527769486632                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;225.0
+505;1527769550563                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;225.0
+506;1527769614792                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;225.0
+507;1527769679182                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;225.0
+508;1527769692435                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;226.0
+509;1527769725753                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+510;1527769744616                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+511;1527769808794                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+512;1527769823448                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+513;1527769876941                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+514;1527769931589                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+515;1527769986166                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+516;1527770040086                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+517;1527770094440                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+518;1527770149295                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+519;1527770150305                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+520;1527770207808                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+521;1527770268226                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+522;1527770326569                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+523;1527770386498                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+524;1527770487592                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+525;1527770551823                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+526;1527770617180                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+527;1527770680401                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+528;1527770744631                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+529;1527770808723                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+530;1527770871945                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+531;1527770936494                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+532;1527771000642                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+533;1527771063801                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+534;1527771079886                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+535;1527771134035                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+536;1527771188380                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+537;1527771242518                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+538;1527771297091                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+539;1527771351802                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+540;1527771352731                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+541;1527771408681                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+542;1527771468638                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+543;1527771528669                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+544;1527771587634                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+545;1527771646283                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+546;1527771705584                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+547;1527771809494                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+548;1527771852755                           ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;891.0
+549;1527771854003                           ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;891.0
+550;1527771855196                           ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;891.0
+551;1527771856486                           ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;891.0
+552;1527771857794                           ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;891.0
+553;1527771859117                           ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;891.0
+554;1527771873537                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+555;1527771899681                           ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;891.0
+556;1527771936758                           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+557;1527771963633                           ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;893.0
+558;2018-05-31T13:10:19.659Z                ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;901.0
+559;2018-05-31T13:10:59.013Z                ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+560;2018-05-31T13:11:24.187Z                ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;902.0
+561;2018-05-31T13:12:03.933Z                ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+562;2018-05-31T13:12:28.627Z                ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;903.0
+563;Thu, 31 May 2018 13:12:25 GMT           ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+564;Thu, 31 May 2018 13:12:46 GMT           ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;905.0
+565;Thu, 31 May 2018 13:13:10 GMT           ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;669.0
+566;2018-5-31                               ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;150.0
+567;2018-5-31                               ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;150.0
+568;2018-5-31                               ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;150.0
+569;2018-5-31                               ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;670.0
+570;2018-5-31                               ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;907.0
+571;2018-5-31 15:14:14                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;151.0
+572;2018-5-31 15:14:15                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+573;2018-5-31 15:14:34                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;909.0
+574;2018-5-31 15:14:44                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;152.0
+575;2018-5-31 15:15:08                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;152.0
+576;2018-5-31 15:15:08                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;152.0
+577;2018-5-31 15:15:10                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+578;2018-5-31 15:15:12                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;153.0
+579;2018-5-31 15:15:13                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;153.0
+580;2018-5-31 15:15:15                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;153.0
+581;2018-5-31 15:15:29                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;911.0
+582;2018-5-31 15:16:03                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;153.0
+583;2018-5-31 15:16:04                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+584;2018-5-31 15:16:05                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+585;2018-5-31 15:16:58                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;153.0
+586;2018-5-31 15:16:58                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;153.0
+587;2018-5-31 15:16:58                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+588;2018-5-31 15:17:17                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;914.0
+589;2018-5-31 15:17:53                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;153.0
+590;2018-5-31 15:17:53                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+591;2018-5-31 15:17:53                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;154.0
+592;2018-5-31 15:17:54                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;154.0
+593;2018-5-31 15:18:11                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;916.0
+594;2018-5-31 15:18:48                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+595;2018-5-31 15:19:09                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;918.0
+596;2018-5-31 15:19:33                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;155.0
+597;2018-5-31 15:19:47                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;155.0
+598;2018-5-31 15:19:48                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+599;2018-5-31 15:20:08                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;918.0
+600;2018-5-31 15:20:46                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;155.0
+601;2018-5-31 15:20:48                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+602;2018-5-31 15:21:07                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;918.0
+603;2018-5-31 15:21:47                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+604;2018-5-31 15:21:46                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;155.0
+605;2018-5-31 15:22:06                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;919.0
+606;2018-5-31 15:22:22                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;156.0
+607;2018-5-31 15:22:24                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;156.0
+608;2018-5-31 15:22:46                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+609;2018-5-31 15:22:55                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;157.0
+610;2018-5-31 15:23:49                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;920.0
+611;2018-5-31 15:23:57                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;1.0
+612;2018-5-31 15:23:58                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;1.0
+613;2018-5-31 15:24:00                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;1.0
+614;2018-5-31 15:24:27                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;1.0
+615;2018-5-31 15:24:30                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;157.0
+616;2018-5-31 15:24:30                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;157.0
+617;2018-5-31 15:24:30                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+618;2018-5-31 15:24:52                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;920.0
+619;2018-5-31 15:25:33                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;157.0
+620;2018-5-31 15:25:35                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+621;2018-5-31 15:26:28                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;167.0
+622;2018-5-31 15:26:29                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;167.0
+623;2018-5-31 15:26:30                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;167.0
+624;2018-5-31 15:26:32                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;167.0
+625;2018-5-31 15:26:34                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;167.0
+626;2018-5-31 15:26:36                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;167.0
+627;2018-5-31 15:26:38                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;157.0
+628;2018-5-31 15:26:38                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;57.0
+629;2018-5-31 15:26:39                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;57.0
+630;2018-5-31 15:26:39                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;57.0
+631;2018-5-31 15:26:40                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+632;2018-5-31 15:26:59                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;923.0
+633;2018-5-31 15:27:15                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;158.0
+634;2018-5-31 15:27:18                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;158.0
+635;2018-5-31 15:27:20                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;167.0
+636;2018-5-31 15:27:32                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;57.0
+637;2018-5-31 15:27:41                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;158.0
+638;2018-5-31 15:27:44                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+639;2018-5-31 15:28:03                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;923.0
+640;2018-5-31 15:28:23                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;167.0
+641;2018-5-31 15:28:35                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;57.0
+642;2018-5-31 15:28:42                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;159.0
+643;2018-5-31 15:28:44                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;159.0
+644;2018-5-31 15:28:44                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;159.0
+645;2018-5-31 15:28:48                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+646;2018-5-31 15:29:08                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;924.0
+647;2018-5-31 15:29:27                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;167.0
+648;2018-5-31 15:29:38                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;57.0
+649;2018-5-31 15:29:47                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;159.0
+650;2018-5-31 15:29:49                      ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+651;2018-5-31 15:29:52                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+652;2018-5-31 15:30:13                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;924.0
+653;2018-5-31 15:30:31                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;167.0
+654;2018-5-31 15:30:41                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;160.0
+655;2018-5-31 15:30:43                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;160.0
+656;2018-5-31 15:30:43                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;160.0
+657;2018-5-31 15:30:43                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;57.0
+658;2018-5-31 15:30:51                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;160.0
+659;2018-5-31 15:30:54                      ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+660;2018-5-31 15:30:56                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+661;2018-5-31 15:31:04                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;58.0
+662;2018-5-31 15:31:06                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;58.0
+663;2018-5-31 15:31:07                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;58.0
+664;2018-5-31 15:37:17                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;926.0
+665;2018-5-31 15:37:29                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;163.0
+666;2018-5-31 15:37:27                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;163.0
+667;2018-5-31 15:37:29                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;167.0
+668;2018-5-31 15:37:44                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;163.0
+669;2018-5-31 15:37:45                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;58.0
+670;2018-5-31 15:37:50                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;5.0
+671;2018-5-31 15:37:54                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+672;2018-5-31 15:37:56                      ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+673;2018-5-31 15:37:56                      ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+674;2018-5-31 15:38:05                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;164.0
+675;2018-5-31 15:38:07                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;164.0
+676;2018-5-31 15:38:11                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;926.0
+677;2018-5-31 15:38:35                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;165.0
+678;2018-5-31 15:38:39                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;58.0
+679;2018-5-31 15:38:46                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;5.0
+680;2018-5-31 15:38:50                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+681;2018-5-31 15:38:52                      ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+682;2018-5-31 15:38:52                      ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+683;2018-5-31 15:39:07                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;927.0
+684;2018-5-31 15:39:22                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;167.0
+685;2018-5-31 15:39:24                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;166.0
+686;2018-5-31 15:39:33                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;166.0
+687;2018-5-31 15:39:33                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;166.0
+688;2018-5-31 15:39:37                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;58.0
+689;2018-5-31 15:39:45                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;5.0
+690;2018-5-31 15:39:50                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+691;2018-5-31 15:39:51                      ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+692;2018-5-31 15:40:06                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;929.0
+693;2018-5-31 15:40:21                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;167.0
+694;2018-5-31 15:40:33                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;166.0
+695;2018-5-31 15:40:38                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;58.0
+696;2018-5-31 15:40:44                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;167.0
+697;2018-5-31 15:40:45                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;5.0
+698;2018-5-31 15:40:46                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;167.0
+699;2018-5-31 15:40:49                      ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+700;2018-5-31 15:40:50                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+701;2018-5-31 15:41:05                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;929.0
+702;2018-5-31 15:41:19                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;167.0
+703;2018-5-31 15:41:32                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;168.0
+704;2018-5-31 15:41:36                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;58.0
+705;2018-5-31 15:41:45                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;5.0
+706;2018-5-31 15:41:49                      ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+707;2018-5-31 15:41:49                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+708;2018-5-31 15:42:04                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;929.0
+709;2018-5-31 15:42:08                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;169.0
+710;2018-5-31 15:42:08                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;169.0
+711;2018-5-31 15:42:17                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;167.0
+712;2018-5-31 15:42:27                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;169.0
+713;2018-5-31 15:42:35                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;58.0
+714;2018-5-31 15:42:44                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;5.0
+715;2018-5-31 15:42:49                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+716;2018-5-31 15:43:04                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;929.0
+717;2018-5-31 15:43:54                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;170.0
+718;2018-5-31 15:43:56                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;170.0
+719;2018-5-31 15:43:58                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;170.0
+720;2018-5-31 15:44:20                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;5.0
+721;2018-5-31 15:44:27                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+722;2018-5-31 15:44:42                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;929.0
+723;2018-5-31 15:44:55                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;167.0
+724;2018-5-31 15:45:24                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;5.0
+725;2018-5-31 15:45:32                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+726;2018-5-31 15:45:46                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;931.0
+727;2018-5-31 15:45:59                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;167.0
+728;2018-5-31 15:46:07                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;171.0
+729;2018-5-31 15:46:07                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;171.0
+730;2018-5-31 15:46:29                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;5.0
+731;2018-5-31 15:46:37                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+732;2018-5-31 15:46:50                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;932.0
+733;2018-5-31 15:47:02                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;167.0
+734;2018-5-31 15:47:10                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;171.0
+735;2018-5-31 15:47:34                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;5.0
+736;2018-5-31 15:47:41                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+737;2018-5-31 15:47:53                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;934.0
+738;2018-5-31 15:48:07                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;167.0
+739;2018-5-31 15:48:15                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;171.0
+740;2018-5-31 15:48:39                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;5.0
+741;2018-5-31 15:48:46                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+742;2018-5-31 15:48:58                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;935.0
+743;2018-5-31 15:49:11                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;167.0
+744;2018-5-31 15:49:20                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;171.0
+745;2018-5-31 15:49:43                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;5.0
+746;2018-5-31 15:49:51                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+747;2018-5-31 15:49:59                      ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+748;2018-5-31 15:50:02                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;935.0
+749;2018-5-31 15:50:14                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;167.0
+750;2018-5-31 15:50:24                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;171.0
+751;2018-5-31 15:50:47                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;5.0
+752;2018-5-31 15:50:55                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+753;2018-5-31 15:51:04                      ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+754;2018-5-31 15:51:05                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;935.0
+755;2018-5-31 15:51:19                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;167.0
+756;2018-5-31 15:51:28                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;171.0
+757;2018-5-31 15:51:51                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;5.0
+758;2018-5-31 15:51:59                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;59.0
+759;2018-5-31 15:51:59                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+760;2018-5-31 15:52:00                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;59.0
+761;2018-5-31 15:52:00                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;59.0
+762;2018-5-31 15:52:10                      ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+763;2018-5-31 15:52:10                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;937.0
+764;2018-5-31 15:52:22                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;167.0
+765;2018-5-31 15:52:32                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;171.0
+766;2018-5-31 15:52:55                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;5.0
+767;2018-5-31 15:53:02                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;59.0
+768;2018-5-31 15:53:04                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+769;2018-5-31 15:53:13                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;938.0
+770;2018-5-31 15:53:14                      ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+771;2018-5-31 15:53:25                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;167.0
+772;2018-5-31 15:53:36                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;171.0
+773;2018-5-31 15:53:57                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;5.0
+774;2018-5-31 15:54:02                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;59.0
+775;2018-5-31 15:54:05                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+776;2018-5-31 15:53:36                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;940.0
+777;2018-5-31 15:53:38                      ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+778;2018-5-31 15:53:49                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;167.0
+779;2018-5-31 15:53:57                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;171.0
+780;2018-5-31 15:53:57                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;171.0
+781;2018-5-31 15:54:17                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;5.0
+782;2018-5-31 15:54:21                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;59.0
+783;2018-5-31 15:54:25                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+784;2018-5-31 15:54:32                      ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+785;2018-5-31 15:54:42                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;167.0
+786;2018-5-31 15:54:51                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;171.0
+787;2018-5-31 15:55:10                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;168.0
+788;2018-5-31 15:55:11                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;5.0
+789;2018-5-31 15:55:11                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;168.0
+790;2018-5-31 15:55:12                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;168.0
+791;2018-5-31 15:55:15                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;59.0
+792;2018-5-31 15:55:18                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+793;2018-5-31 15:55:25                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;943.0
+794;2018-5-31 15:55:26                      ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+795;2018-5-31 15:55:38                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;168.0
+796;2018-5-31 15:55:45                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;171.0
+797;2018-5-31 15:56:05                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;5.0
+798;2018-5-31 15:56:10                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;59.0
+799;2018-5-31 15:56:13                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+800;2018-5-31 15:56:14                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+801;2018-5-31 15:56:20                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;944.0
+802;2018-5-31 15:56:20                      ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+803;2018-5-31 15:56:38                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;171.0
+804;2018-5-31 15:56:59                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;5.0
+805;2018-5-31 15:57:05                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;59.0
+806;2018-5-31 15:57:08                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+807;2018-5-31 15:57:14                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;946.0
+808;2018-5-31 15:57:15                      ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+809;2018-5-31 15:57:20                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;168.0
+810;2018-5-31 15:57:33                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;171.0
+811;2018-5-31 15:57:55                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;5.0
+812;2018-5-31 15:57:58                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;59.0
+813;2018-5-31 15:58:02                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+814;2018-5-31 15:58:08                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;947.0
+815;2018-5-31 15:58:09                      ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+816;2018-5-31 15:58:16                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;168.0
+817;2018-5-31 15:58:27                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;171.0
+818;2018-5-31 15:58:51                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;5.0
+819;2018-5-31 15:58:54                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;59.0
+820;2018-5-31 15:58:58                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+821;2018-5-31 15:59:04                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;948.0
+822;2018-5-31 15:59:06                      ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+823;2018-5-31 15:59:12                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;168.0
+824;2018-5-31 15:59:25                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;171.0
+825;2018-5-31 15:59:50                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;5.0
+826;2018-5-31 15:59:53                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;59.0
+827;2018-5-31 15:59:58                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+828;2018-5-31 16:00:03                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;948.0
+829;2018-5-31 16:00:06                      ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+830;2018-5-31 16:00:13                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;168.0
+831;2018-5-31 16:00:24                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;171.0
+832;2018-5-31 16:00:49                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;5.0
+833;2018-5-31 16:00:53                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;59.0
+834;2018-5-31 16:00:57                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+835;2018-5-31 16:01:01                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;949.0
+836;2018-5-31 16:01:06                      ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+837;2018-5-31 16:01:23                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;171.0
+838;2018-5-31 16:01:49                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;5.0
+839;2018-5-31 16:01:51                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;59.0
+840;2018-5-31 16:01:57                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+841;2018-5-31 16:02:00                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;950.0
+842;2018-5-31 16:02:06                      ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+843;2018-5-31 16:02:06                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;168.0
+844;2018-5-31 16:02:22                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;171.0
+845;2018-5-31 16:02:48                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;5.0
+846;2018-5-31 16:02:51                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;59.0
+847;2018-5-31 16:02:57                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+848;2018-5-31 16:02:59                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;951.0
+849;2018-5-31 16:03:05                      ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+850;2018-5-31 16:03:11                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;168.0
+851;2018-5-31 16:03:21                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;171.0
+852;2018-5-31 16:03:48                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;5.0
+853;2018-5-31 16:03:51                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;59.0
+854;2018-5-31 16:03:56                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+855;2018-5-31 16:03:59                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;953.0
+856;2018-5-31 16:04:05                      ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+857;2018-5-31 16:04:48                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;168.0
+858;2018-5-31 16:04:59                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;171.0
+859;2018-5-31 16:05:27                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;5.0
+860;2018-5-31 16:05:32                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;59.0
+861;2018-5-31 16:05:39                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+862;2018-5-31 16:05:40                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;955.0
+863;2018-5-31 16:05:47                      ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+864;2018-5-31 16:05:51                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;168.0
+865;2018-5-31 16:06:05                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;171.0
+866;2018-5-31 16:06:32                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;5.0
+867;2018-5-31 16:06:37                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;59.0
+868;2018-5-31 16:06:43                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+869;2018-5-31 16:06:43                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;956.0
+870;2018-5-31 16:06:52                      ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+871;2018-5-31 16:06:52                      ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+872;2018-5-31 16:06:54                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;168.0
+873;2018-5-31 16:07:08                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;171.0
+874;2018-5-31 16:07:36                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;5.0
+875;2018-5-31 16:07:47                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+876;2018-5-31 16:07:47                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;958.0
+877;2018-5-31 16:07:57                      ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+878;2018-5-31 16:07:57                      ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+879;2018-5-31 16:07:58                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;168.0
+880;2018-5-31 16:08:13                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;171.0
+881;2018-5-31 16:08:39                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;5.0
+882;2018-5-31 16:08:44                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;59.0
+883;2018-5-31 16:08:52                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+884;2018-5-31 16:08:52                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;960.0
+885;2018-5-31 16:08:52                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;172.0
+886;2018-5-31 16:08:54                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;172.0
+887;2018-5-31 16:09:02                      ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+888;2018-5-31 16:09:02                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;168.0
+889;2018-5-31 16:09:17                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;172.0
+890;2018-5-31 16:09:44                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;5.0
+891;2018-5-31 16:09:56                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+892;2018-5-31 16:09:56                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;962.0
+893;2018-5-31 16:10:07                      ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+894;2018-5-31 16:10:08                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;168.0
+895;2018-5-31 16:10:22                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;172.0
+896;2018-5-31 16:10:43                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;173.0
+897;2018-5-31 16:10:44                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;173.0
+898;2018-5-31 16:10:48                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;5.0
+899;2018-5-31 16:10:53                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;59.0
+900;2018-5-31 16:10:54                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;59.0
+901;2018-5-31 16:11:01                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+902;2018-5-31 16:11:02                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;963.0
+903;2018-5-31 16:11:11                      ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+904;2018-5-31 16:11:46                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;174.0
+905;2018-5-31 16:11:52                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;5.0
+906;2018-5-31 16:11:59                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;59.0
+907;2018-5-31 16:11:59                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;59.0
+908;2018-5-31 16:12:05                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;964.0
+909;2018-5-31 16:12:06                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+910;2018-5-31 16:12:14                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;168.0
+911;2018-5-31 16:12:17                      ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+912;2018-5-31 16:12:23                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;175.0
+913;2018-5-31 16:12:23                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;175.0
+914;2018-5-31 16:12:31                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;175.0
+915;2018-5-31 16:12:57                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;5.0
+916;2018-5-31 16:13:02                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;59.0
+917;2018-5-31 16:13:09                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;176.0
+918;2018-5-31 16:13:09                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;966.0
+919;2018-5-31 16:13:11                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+920;2018-5-31 16:13:11                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;176.0
+921;2018-5-31 16:13:13                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;176.0
+922;2018-5-31 16:13:17                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;168.0
+923;2018-5-31 16:13:20                      ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+924;2018-5-31 16:13:35                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;176.0
+925;2018-5-31 16:14:01                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;5.0
+926;2018-5-31 16:14:05                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;59.0
+927;2018-5-31 16:14:13                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;968.0
+928;2018-5-31 16:14:13                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+929;2018-5-31 16:14:20                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;168.0
+930;2018-5-31 16:14:24                      ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+931;2018-5-31 16:14:29                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;177.0
+932;2018-5-31 16:14:31                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;177.0
+933;2018-5-31 16:14:31                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;177.0
+934;2018-5-31 16:15:00                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;5.0
+935;2018-5-31 16:15:03                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;59.0
+936;2018-5-31 16:14:32                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;969.0
+937;2018-5-31 16:14:34                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+938;2018-5-31 16:14:43                      ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+939;2018-5-31 16:14:47                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;177.0
+940;2018-5-31 16:15:15                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;5.0
+941;2018-5-31 16:15:20                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;59.0
+942;2018-5-31 16:15:26                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;971.0
+943;2018-5-31 16:15:29                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+944;2018-5-31 16:15:30                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+945;2018-5-31 16:15:34                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;168.0
+946;2018-5-31 16:15:38                      ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+947;2018-5-31 16:15:42                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;177.0
+948;2018-5-31 16:16:09                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;5.0
+949;2018-5-31 16:16:14                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;59.0
+950;2018-5-31 16:16:21                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;973.0
+951;2018-5-31 16:16:23                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+952;2018-5-31 16:16:28                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;168.0
+953;2018-5-31 16:16:31                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;178.0
+954;2018-5-31 16:16:32                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;178.0
+955;2018-5-31 16:16:33                      ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+956;2018-5-31 16:17:02                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;5.0
+957;2018-5-31 16:17:09                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;59.0
+958;2018-5-31 16:17:15                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;975.0
+959;2018-5-31 16:17:17                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+960;2018-5-31 16:17:22                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;168.0
+961;2018-5-31 16:17:26                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;178.0
+962;2018-5-31 16:17:28                      ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+963;2018-5-31 16:17:34                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;179.0
+964;2018-5-31 16:17:35                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;179.0
+965;2018-5-31 16:17:58                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;5.0
+966;2018-5-31 16:18:03                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;59.0
+967;2018-5-31 16:18:11                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;976.0
+968;2018-5-31 16:18:13                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+969;2018-5-31 16:18:16                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;168.0
+970;2018-5-31 16:18:20                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;179.0
+971;2018-5-31 16:18:21                      ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+972;2018-5-31 16:18:52                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;5.0
+973;2018-5-31 16:18:57                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;59.0
+974;2018-5-31 16:19:05                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;977.0
+975;2018-5-31 16:19:07                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+976;2018-5-31 16:19:11                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;168.0
+977;2018-5-31 16:19:15                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;179.0
+978;2018-5-31 16:19:16                      ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+979;2018-5-31 16:19:45                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;5.0
+980;2018-5-31 16:19:47                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;169.0
+981;2018-5-31 16:19:49                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;169.0
+982;2018-5-31 16:19:50                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;169.0
+983;2018-5-31 16:19:51                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;59.0
+984;2018-5-31 16:20:00                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;979.0
+985;2018-5-31 16:20:02                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+986;2018-5-31 16:20:04                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;169.0
+987;2018-5-31 16:20:10                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;179.0
+988;2018-5-31 16:20:12                      ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+989;2018-5-31 16:20:41                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;5.0
+990;2018-5-31 16:20:58                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;981.0
+991;2018-5-31 16:20:59                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+992;2018-5-31 16:21:01                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;169.0
+993;2018-5-31 16:21:09                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;179.0
+994;2018-5-31 16:21:10                      ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+995;2018-5-31 16:21:40                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;5.0
+996;2018-5-31 16:21:48                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;59.0
+997;2018-5-31 16:21:57                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;983.0
+998;2018-5-31 16:21:58                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+999;2018-5-31 16:22:00                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;169.0
+1000;2018-5-31 16:22:09                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;179.0
+1001;2018-5-31 16:22:11                      ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+1002;2018-5-31 16:22:38                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;5.0
+1003;2018-5-31 16:22:48                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;59.0
+1004;2018-5-31 16:22:56                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;984.0
+1005;2018-5-31 16:22:57                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
+1006;2018-5-31 16:22:59                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045095-4-Motion         ;169.0
+1007;2018-5-31 16:23:09                      ;914345              ;SampleMotion                            ;EUI64-0080E10300022BFC-4-Motion         ;179.0
+1008;2018-5-31 16:23:10                      ;914345              ;SampleMotion                            ;EUI64-0080E103000245C1-4-Motion         ;159.0
+1009;2018-5-31 16:23:37                      ;914345              ;SampleMotion                            ;EUI64-0080E10300047464-4-Motion         ;5.0
+1010;2018-5-31 16:23:47                      ;914345              ;SampleMotion                            ;EUI64-0080E1030004F23D-4-Motion         ;59.0
+1011;2018-5-31 16:23:55                      ;914345              ;SampleMotion                            ;EUI64-0080E10300045738-4-Motion         ;985.0
+1012;2018-5-31 16:23:57                      ;914345              ;SampleMotion                            ;EUI64-0080E1030002278E-4-Motion         ;227.0
