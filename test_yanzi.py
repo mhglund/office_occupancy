@@ -1,5 +1,6 @@
 from datetime import datetime
 import pandas as pd
+import numpy as np
 
 # Läs in filen
 df = pd.read_csv('yanzi_250l.csv', sep=';', encoding = "utf-8")
@@ -31,8 +32,26 @@ print('--------------------------')
 
 # Plocka ut en viss sensor (rader med ett visst kolumnvärde)
 en_sensor = df_trimmed.loc[df_trimmed['sensorId'] == 'EUI64-0080E10300045738-4-Motion']
+# Plocka ut alla rader i vissa kolumner
+df_vissa_kolumner = df_trimmed.loc[:, ['time', 'location', 'sensorId', 'value']]
+
+
+# Räkna ut hur mycket som ändrats för varje sensor sedan förra mätvärdet
+changed = df_vissa_kolumner.groupby('sensorId')['value'].diff()
+
+# Konvertera till boolean
+haschanged = changed.transform(lambda x: x > 0)
+
+# Konvertera till ny DataFrame och slå ihop med gamla
+df_movement = df_vissa_kolumner.join(pd.DataFrame({'movement': haschanged}))
+
+
+#df_vissa_kolumner.join(pd.DataFrame({'movement': df_vissa_kolumner.groupby('sensorId')['value'].diff().transform(lambda x: x > 0)}))
 
 print('SENSOR: EUI64-0080E10300045738-4-Motion')
+print('Med movement (true/false):')
+print(df_movement.head(100))
+print('--------------------------')
 print(en_sensor)
 print('--------------------------')
 
