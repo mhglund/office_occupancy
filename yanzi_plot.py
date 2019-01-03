@@ -31,7 +31,7 @@ def convert_timeformat(text):
 
 def detect_activity(df):
     # Räkna ut hur mycket som ändrats för varje sensor sedan förra mätvärdet
-    changes = df.groupby('sensorId')['value'].diff()
+    changes = df.sort_values('time').groupby('sensorId')['value'].diff()
     # returnera true/false beroende på om ändringen är större än 0
     return changes.transform(lambda x: x > 0)
 
@@ -42,7 +42,7 @@ def add_rooms(df):
     return df.join(sensorlist.set_index('Sensor'), on='sensorId')
 
 # Läs in filen
-activity = get_csv_data('yanzi_1000l.csv')
+activity = get_csv_data('yanzi_20000l_slump.csv')
 
 # parsea tidsformaten
 activity['time'] = pd.to_datetime(
@@ -63,15 +63,16 @@ activity['hour'] = activity.apply(lambda row: row['time'].hour, axis=1)
 activity['weekday'] = activity.apply(lambda row: row['time'].dayofweek, axis=1)
 
 print('--------------------------')
-#print(df.sample(25))
 print(activity.sample(25).sort_values(by=['sensorId', 'time']))
 
 from bokeh.io import show, output_file
 from bokeh.models import ColumnDataSource
 from bokeh.plotting import figure
 
-average_movement = activity.groupby(['hour', 'weekday'], as_index=False).mean()
-average_movement['movement'] = average_movement['movement']*50
+# Ta fram medelvärde för de som har samma hour och weekday
+average_movement = activity.groupby(['hour', 'weekday'], as_index=False).sum()
+# Delat på 2 för att inte prickarna ska bli för stora
+average_movement['movement'] = average_movement['movement']/2
 
 output_file('scatter.html')
 p = figure(
@@ -87,8 +88,8 @@ p.circle(
     y='hour',
     size='movement',
     color='black',
-    alpha=0.3
+    alpha=0.15
 )
 
 # Öppna webbläsare och visa plot, bortkommenterad för enkelhetens skull
-#show(p)
+show(p)
