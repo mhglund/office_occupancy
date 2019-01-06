@@ -91,18 +91,31 @@ print('--------------------------')
 
 
 # Skapar en ny DF(kopia) för att kunna lägga till rum
-newDF = pd.DataFrame(df_trimmed)
+# newDF = pd.DataFrame(df_trimmed)
 
-def addRooms():
-    roomsArray = []
-    for indexYanzi, rowYanzi in df_trimmed.iterrows():
-        for index, row in sensorlist.iterrows():
-            if rowYanzi[4] == row[0]:
-                roomsArray.append(row[1])
+# def addRooms():
+#     roomsArray = []
+#     for indexYanzi, rowYanzi in df_trimmed.iterrows():
+#         for index, row in sensorlist.iterrows():
+#             if rowYanzi[4] == row[0]:
+#                 roomsArray.append(row[1])
 
-    newDF['Room'] = pd.Series(roomsArray, index=newDF.index)
+#     newDF['Room'] = pd.Series(roomsArray, index=newDF.index)
 
-addRooms()
-print('VÄRDEN MED RUMINFORMATION:')
-print(newDF)
+# addRooms()
+
+def get_csv_data(filename):
+    df = pd.read_csv(filename, sep=';', encoding = "utf-8")
+    return df.apply(lambda x: x.str.strip() if x.dtype == "object" else x)
+
+def add_rooms(df):
+    # Kombinera sensortyp med aktivitet på ett lite effektivare
+    # sätt än nästlade loopar...
+    sensorlist = get_csv_data('sensor_list.csv')
+    return df.join(sensorlist.set_index('Sensor'), on='sensorId')
+
+df_trimmed = add_rooms(df_trimmed)
+
+print('VÄRDEN MED RUMINFORMATION (25 slumpvisa):')
+print(df_trimmed.sample(25))
 print('--------------------------')

@@ -32,8 +32,15 @@ def convert_timeformat(text):
 def detect_activity(df):
     # Räkna ut hur mycket som ändrats för varje sensor sedan förra mätvärdet
     changes = df.sort_values('time').groupby('sensorId')['value'].diff()
-    # returnera true/false beroende på om ändringen är större än 0
-    return changes.transform(lambda x: x > 0)
+
+    # pseudo: spara tidpunkten (och sensorId?) temp om värdet är true, för att kunna räkna
+    # tidsdifferensen mellan den och nästa värde som är true (om samma sensor) –
+    # "släng" (gör till false) den första om det är över fem minuter?
+
+    # skriva nån felhantering för när sensorn nollställer
+
+    # returnera true/false beroende på om ändringen är större än 0 / lika med 1?
+    return changes.transform(lambda x: x == 1)
 
 def add_rooms(df):
     # Kombinera sensortyp (typ av plats) med aktivitet på ett
@@ -42,7 +49,7 @@ def add_rooms(df):
     return df.join(sensorlist.set_index('Sensor'), on='sensorId')
 
 # Läs in filen
-activity = get_csv_data('yanzi_20000l_slump.csv')
+activity = get_csv_data('yanzi_motion_20000l_slump.csv')
 
 # parsea tidsformaten
 activity['time'] = pd.to_datetime(
@@ -50,10 +57,10 @@ activity['time'] = pd.to_datetime(
 )
 
 # Plocka ut alla rader i vissa kolumner
-activity = activity.loc[:, ['time', 'sensorId', 'value']]
+activity = activity.loc[:, ['time', 'sensorId', 'value', 'movement']]
 
 # Sätt true/false beroende på aktivitet
-activity['movement'] = detect_activity(activity)
+#activity['movement'] = detect_activity(activity)
 
 # Koppla aktivitet till rumstyp
 activity = add_rooms(activity)
@@ -62,8 +69,26 @@ activity = add_rooms(activity)
 activity['hour'] = activity.apply(lambda row: row['time'].hour, axis=1)
 activity['weekday'] = activity.apply(lambda row: row['time'].dayofweek, axis=1)
 
-print('--------------------------')
+print('-------------------------- 25 slumpade --------------------------')
 print(activity.sample(25).sort_values(by=['sensorId', 'time']))
+
+activity_mitt = activity.head(7500)
+en_sensor = activity.loc[activity['sensorId'] == 'EUI64-0080E1030004F23D-4-Motion']
+
+print('-------------------------- en sensor --------------------------')
+print(en_sensor.tail(500).sort_values(by=['sensorId', 'time']))
+#en_sensor.to_csv('sensor0080E1030004F23D.csv', sep='\t', encoding='utf-8')
+
+# Plocka ut rader med tomma värden
+tomma = activity.isnull().sum().sum()
+
+print('SAKNAR VÄRDE (antal):')
+print(tomma)
+print('--------------------------')
+
+#print('-------------------------- 250 mitten --------------------------')
+#print(activity_mitt.tail(500).sort_values(by=['sensorId', 'time']))
+
 
 from bokeh.io import show, output_file
 from bokeh.models import ColumnDataSource
@@ -71,8 +96,8 @@ from bokeh.plotting import figure
 
 # Ta fram medelvärde för de som har samma hour och weekday
 average_movement = activity.groupby(['hour', 'weekday'], as_index=False).sum()
-# Delat på 2 för att inte prickarna ska bli för stora
-average_movement['movement'] = average_movement['movement']/2
+#Delat på 1,5 för att inte prickarna ska bli för stora
+average_movement['movement'] = average_movement['movement']/1.5
 
 output_file('scatter.html')
 p = figure(
