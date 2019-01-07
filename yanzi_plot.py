@@ -185,22 +185,28 @@ def extract_features(activity):
         activity['sensorId'].values.reshape(-1, 1)
     )
 
+    activity = activity.loc[:, ['time', 'sensorId', 'movement']]
+
     LOG.debug('Skapar kolumner för valda tidsspann')
-    #activity['yearweek'] = activity.apply(lambda row: row['time'].weekofyear, axis=1)
-    activity['weekday'] = activity.apply(lambda row: row['time'].dayofweek, axis=1)
-    activity['hour'] = activity.apply(lambda row: row['time'].hour, axis=1)
+    
+    activity = pd.concat([activity, pd.DataFrame(sensors)], axis=1)
+
+    activity = activity.set_index('time')
+    # Den måste registrera 2 movement på 15 minuter för att det ska räknas
+    activity = activity.resample('15T').sum() > 2
+
+    activity['weekday'] = activity.apply(lambda row: row.name.dayofweek, axis=1)
+    activity['hour'] = activity.apply(lambda row: row.name.hour, axis=1)
+    activity['quarter'] = activity.apply(lambda row: row.name.minute //15, axis=1)
+
+    # Ev. måste nätter och helger tas bort här? Kommer bli 0 men tränas på det?
 
     LOG.debug('Plocka ut prediktorer och y-värdet')
-    # Ta bort movement-kolumnen då vi har resamplat per timme
-    features = activity.loc[:, ['weekday', 'hour']].values
-    #features = activity.loc[:, ['yearweek', 'weekday', 'hour']].values
     target = activity['movement'].values
+    features = activity.drop('movement', axis=1).values
 
     LOG.debug('Skala om alla prediktorer till ett värde mellan 0 och 1')
     features = feature_scaler.fit_transform(features)
-
-    LOG.debug('Lägg till one-hot coded sensorId tillbaka till prediktorerna')
-    features = np.hstack((features, sensors))
 
     return Prediction(ActivityData(features, target))
 
@@ -254,9 +260,10 @@ def plot_random_day_predictions(prediction):
 
     # Välj ut 40 slumpmässiga sensorer mellan valda tidpunkter
     sensors = np.identity(81)[np.random.randint(0, 81, 40)]
-    min_hour = feature_scaler.data_min_[1]
-    max_hour = feature_scaler.data_max_[1]
-    hour = np.arange(min_hour, max_hour)
+    min_hour = 7
+    max_hour = 19
+    hour = np.repeat(np.arange(min_hour, max_hour), 4)
+    quarter = np.tile(np.arange(0, 4), max_hour - min_hour)
 
     # Skriver ut felsökningsinformation
     LOG.debug('min_hour = %d, max_hour = %d', min_hour, max_hour)
@@ -274,17 +281,18 @@ def plot_random_day_predictions(prediction):
         for weekday in range(0,5):
             LOG.debug('..%s dag %d', model.name, weekday)
             for sensor in sensors:
-                # Observation för varje timme på dagen (först välja ut klockslagen)
-                times = feature_scaler.transform(
-                    np.column_stack((
-                        np.full(int(max_hour - min_hour), weekday),
-                        hour
-                    )),
-                )
-                times = np.hstack((
-                    times,
-                    np.tile(sensor, (int(max_hour-min_hour), 1))
+                # Observation för varje kvart på dagen (först välja ut klockslagen)
+                times = np.column_stack((
+                    np.full(int((max_hour - min_hour)*4), weekday),
+                    hour,
+                    quarter
                 ))
+                times = feature_scaler.transform(
+                    np.hstack((
+                        np.tile(sensor, ((int(max_hour-min_hour)*4), 1)),
+                        times
+                    ))
+                )
 
                 predicted = model.implementation.predict(times)
                 pad_top_bottom = lambda arr, bottom, top: \
@@ -294,10 +302,10 @@ def plot_random_day_predictions(prediction):
                     # Rita ut det predikterade värdet (mellan två nollor), 
                     # sen rita till vä eller hö beroende på vilken modell det är (colour tar -1 / 1)
                     x=weekday + 0.5 * colour * pad_top_bottom(predicted, 0, 0),
-                    y=pad_top_bottom(hour, min_hour-1, max_hour),
+                    y=pad_top_bottom(hour + quarter/4, min_hour-0.25, max_hour + 0.25),
                     fill_color=palettes.Category10_5[colour],
                     color=palettes.Category10_5[colour],
-                    alpha=0.1,
+                    alpha=0.05,
                     legend=model.name
                 )
 
