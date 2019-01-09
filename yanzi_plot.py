@@ -11,6 +11,7 @@ import pandas as pd
 from sklearn import preprocessing
 from sklearn import model_selection
 from sklearn import neighbors
+import matplotlib.pyplot as plt
 
 LOG = logging.getLogger('yanzi_plot')
 
@@ -54,6 +55,9 @@ def prepare_data(activity):
     activity['weekday'] = activity.apply(lambda row: row['time'].dayofweek, axis=1)
     activity['yearweek'] = activity.apply(lambda row: row['time'].weekofyear, axis=1)
     activity['weekhour'] = activity['weekday']*24 + activity['hour']
+    
+    # För att hålla koll på vilken kvart det är
+    activity['weekdayhourquarter'] = activity.apply(lambda row: row['weekday']*12*4 + row['hour']*4 + row['minute']//4, axis=1)
 
     return activity
 
@@ -155,6 +159,29 @@ def print_correlations(activity):
     print("Korrelation för timme:")
     print(correlations(activity, 'hour', 'Type', 'movement'))
     print('--------------------------')
+    
+    # Kontrollera korrelationen mellan sensorer
+    sensor_correlations_print(activity)
+    return activity
+
+def sensor_correlations_print(activity):
+    print("----")
+    print("Korrelation för timme (eller kvart, förresten?):")
+    sensor_correlations = correlations(activity, 'weekdayhourquarter', 'sensorId', 'movement')
+    
+    print('--------------------------')
+    # Plotta korrelationsmatris
+    fig = plt.figure()
+    ax = fig.add_subplot(111)
+    cax = ax.matshow(sensor_correlations, vmin=-1, vmax=1)
+    fig.colorbar(cax)
+    ticks = np.arange(0,81,1)
+    ax.set_xticks(ticks)
+    ax.set_yticks(ticks)
+    ax.set_xticklabels(sensor_correlations.columns.values)
+    ax.set_yticklabels(sensor_correlations.columns.values)
+    plt.show()
+
     return activity
 
 # Skapa lättviktigt objekt som håller prediktorer och movement separat
@@ -199,7 +226,10 @@ def extract_features(activity):
     activity['hour'] = activity.apply(lambda row: row.name.hour, axis=1)
     activity['quarter'] = activity.apply(lambda row: row.name.minute //15, axis=1)
 
-    # Ev. måste nätter och helger tas bort här? Kommer bli 0 men tränas på det?
+    # Ta bort nätter och helger igen då resamplingen lagt till dem, igen – funkar detta, på riktigt?
+    activity = activity[activity['hour'] >= 7]
+    activity = activity[activity['hour'] < 20]
+    activity = activity[activity['weekday'] <= 4]
 
     LOG.debug('Plocka ut prediktorer och y-värdet')
     target = activity['movement'].values
@@ -327,7 +357,7 @@ configure_logging()
 # Alla funktioner som ska köras finns i PARTS-listan
 PARTS = [get_csv_data, prepare_data, set_global_activity_var]
 #PARTS.append(plot_data)
-#PARTS.append(print_correlations)
+PARTS.append(print_correlations)
 PARTS.append(extract_features)
 PARTS.append(lambda prediction: prediction.set_models(
     ModelInformation('kNN(3)', neighbors.KNeighborsClassifier(3)),
