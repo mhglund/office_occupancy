@@ -11,7 +11,15 @@ import pandas as pd
 from sklearn import preprocessing
 from sklearn import model_selection
 from sklearn import neighbors
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
+
+from sklearn import model_selection
+from sklearn.linear_model import LogisticRegression
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
+from sklearn.naive_bayes import GaussianNB
+from sklearn.svm import SVC
+from sklearn import base
 
 LOG = logging.getLogger('yanzi_plot')
 
@@ -191,10 +199,8 @@ class Prediction:
     def __init__(self, activity):
         self.activity = activity
 
-    def set_models(self, a, b):
-        self.A = a
-        self.B = b
-        self.both = [a, b]
+    def set_models(self, models):
+        self.models = models
         return self
 
 sensor_encoder = preprocessing.OneHotEncoder(sparse=False)
@@ -270,12 +276,12 @@ class ModelInformation:
 
 def evaluate_models(prediction):
     LOG.info('Korsvalidera båda modellerna')
-    for model in prediction.both:
+    for model in prediction.models:
         model.cross_validate(prediction.activity)
     return prediction
 
 def print_results(prediction):
-    for result in prediction.both:
+    for result in prediction.models:
         print(str(result))
     return prediction
 
@@ -341,6 +347,22 @@ def plot_random_day_predictions(prediction):
 
     show(column(*figures))
 
+class RandomWalkClassifier(base.BaseEstimator, base.ClassifierMixin):
+    """
+    Assumes a random walk process, where y is just as likely to go up as down.
+    Therefore predicts the mean – i.e. the last known value.
+    """
+    def __init__(self):
+        self.last = 0
+
+    def fit(self, _, y):
+        "Fits to training signal by just keeping the last value"
+        self.last = y[-1]
+
+    def predict(self, x):
+        "Predicts by returning an array full of the last seen value"
+        return np.full(len(x), self.last)
+
 # Enbart felsökning
 def set_global_activity_var(df):
     global activity
@@ -357,16 +379,22 @@ configure_logging()
 # Alla funktioner som ska köras finns i PARTS-listan
 PARTS = [get_csv_data, prepare_data, set_global_activity_var]
 #PARTS.append(plot_data)
-PARTS.append(print_correlations)
+#PARTS.append(print_correlations)
 PARTS.append(extract_features)
-PARTS.append(lambda prediction: prediction.set_models(
+PARTS.append(lambda prediction: prediction.set_models([
     ModelInformation('kNN(3)', neighbors.KNeighborsClassifier(3)),
-    ModelInformation('kNN(15)', neighbors.KNeighborsClassifier(15))
-))
+    ModelInformation('kNN(15)', neighbors.KNeighborsClassifier(15)),
+    #ModelInformation('LR', LogisticRegression()),
+    #ModelInformation('LDA', LinearDiscriminantAnalysis()),
+    ModelInformation('CART', DecisionTreeClassifier()),
+    ModelInformation('NB', GaussianNB()),
+    ModelInformation('SVM', SVC(gamma='scale')),
+    ModelInformation('RWC', RandomWalkClassifier())
+]))
 PARTS.append(evaluate_models)
 PARTS.append(print_results)
 PARTS.append(set_global_prediction_var)
-PARTS.append(plot_random_day_predictions)
+#PARTS.append(plot_random_day_predictions)
 
 # Kör funktionerna i PARTS
 functools.reduce(
